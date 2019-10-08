@@ -132,7 +132,7 @@ public class main {
 			e.printStackTrace();
 		}
 
-		System.out.println("\nThe End");
+		System.out.println("\nThe End\n");
 	}
 
 }
